@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+
+# Keep subscriber data and local notes on this computer.
+/data/*
+!/data/.gitkeep
